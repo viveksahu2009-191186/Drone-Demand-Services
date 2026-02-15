@@ -1,0 +1,7 @@
+{
+  "name": "DDS - Drone Demand Services",
+  "description": "A smart, AI-enabled marketplace connecting drone operators with customers for agriculture, logistics, and emergency services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
